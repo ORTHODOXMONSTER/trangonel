@@ -14,4 +14,5 @@ func main() {
 	}
 
 	fmt.Println(string(data))
+	log.Println("Ready to Test API endpoints")
 }
